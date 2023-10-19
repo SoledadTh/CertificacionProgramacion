@@ -1,0 +1,14 @@
+C:\Users\Soledad\source\repos\EntidadFinanciera\EntidadFinanciera\bin\Debug\net6.0\EntidadFinanciera.deps.json
+C:\Users\Soledad\source\repos\EntidadFinanciera\EntidadFinanciera\bin\Debug\net6.0\EntidadFinanciera.runtimeconfig.json
+C:\Users\Soledad\source\repos\EntidadFinanciera\EntidadFinanciera\bin\Debug\net6.0\EntidadFinanciera.dll
+C:\Users\Soledad\source\repos\EntidadFinanciera\EntidadFinanciera\bin\Debug\net6.0\EntidadFinanciera.pdb
+C:\Users\Soledad\source\repos\EntidadFinanciera\EntidadFinanciera\obj\Debug\net6.0\EntidadFinanciera.csproj.AssemblyReference.cache
+C:\Users\Soledad\source\repos\EntidadFinanciera\EntidadFinanciera\obj\Debug\net6.0\EntidadFinanciera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soledad\source\repos\EntidadFinanciera\EntidadFinanciera\obj\Debug\net6.0\EntidadFinanciera.AssemblyInfoInputs.cache
+C:\Users\Soledad\source\repos\EntidadFinanciera\EntidadFinanciera\obj\Debug\net6.0\EntidadFinanciera.AssemblyInfo.cs
+C:\Users\Soledad\source\repos\EntidadFinanciera\EntidadFinanciera\obj\Debug\net6.0\EntidadFinanciera.csproj.CoreCompileInputs.cache
+C:\Users\Soledad\source\repos\EntidadFinanciera\EntidadFinanciera\obj\Debug\net6.0\EntidadFinanciera.dll
+C:\Users\Soledad\source\repos\EntidadFinanciera\EntidadFinanciera\obj\Debug\net6.0\refint\EntidadFinanciera.dll
+C:\Users\Soledad\source\repos\EntidadFinanciera\EntidadFinanciera\obj\Debug\net6.0\EntidadFinanciera.pdb
+C:\Users\Soledad\source\repos\EntidadFinanciera\EntidadFinanciera\obj\Debug\net6.0\EntidadFinanciera.genruntimeconfig.cache
+C:\Users\Soledad\source\repos\EntidadFinanciera\EntidadFinanciera\obj\Debug\net6.0\ref\EntidadFinanciera.dll

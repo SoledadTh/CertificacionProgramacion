@@ -9,7 +9,7 @@ namespace EntidadFinanciera
     public class CuentaBancaria
     {
         public int Id { get; set; }
-        public int numeroCuenta { get; set; }
+        public long numeroCuenta { get; set; }
         public double saldo { get; set; }
         public string tipo { get; set; }
         public Cliente clienteCuentaBancaria { get; set; }

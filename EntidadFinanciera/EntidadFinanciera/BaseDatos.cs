@@ -14,7 +14,7 @@ namespace EntidadFinanciera
     {
         public DbSet<Cliente> Clientes { get; set; }
         public DbSet<TarjetaCredito> TarjetasCreditos { get; set; }
-        public DbSet<CuentaBancaria> cuentaBancarias { get; set; }
+        public DbSet<CuentaBancaria> CuentasBancarias { get; set; }
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

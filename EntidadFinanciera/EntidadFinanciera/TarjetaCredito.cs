@@ -9,7 +9,7 @@ namespace EntidadFinanciera
     public class TarjetaCredito
     {
         public int id {  get; set; }
-        public int numeroTarjeta {  get; set; }
+        public int nroTarjeta {  get; set; }
         public double limiteCredito { get; set; }
         public double saldoDisponible { get; set;}
         public double montoDeuda { get; set; }

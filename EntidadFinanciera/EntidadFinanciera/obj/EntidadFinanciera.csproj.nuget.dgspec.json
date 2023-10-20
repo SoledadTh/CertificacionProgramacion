@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Soledad\\source\\repos\\EntidadFinanciera\\EntidadFinanciera\\EntidadFinanciera.csproj": {}
+    "C:\\Users\\Soledad\\Documents\\GitHub\\CertificacionProgramacion\\EntidadFinanciera\\EntidadFinanciera\\EntidadFinanciera.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Soledad\\source\\repos\\EntidadFinanciera\\EntidadFinanciera\\EntidadFinanciera.csproj": {
+    "C:\\Users\\Soledad\\Documents\\GitHub\\CertificacionProgramacion\\EntidadFinanciera\\EntidadFinanciera\\EntidadFinanciera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Soledad\\source\\repos\\EntidadFinanciera\\EntidadFinanciera\\EntidadFinanciera.csproj",
+        "projectUniqueName": "C:\\Users\\Soledad\\Documents\\GitHub\\CertificacionProgramacion\\EntidadFinanciera\\EntidadFinanciera\\EntidadFinanciera.csproj",
         "projectName": "EntidadFinanciera",
-        "projectPath": "C:\\Users\\Soledad\\source\\repos\\EntidadFinanciera\\EntidadFinanciera\\EntidadFinanciera.csproj",
+        "projectPath": "C:\\Users\\Soledad\\Documents\\GitHub\\CertificacionProgramacion\\EntidadFinanciera\\EntidadFinanciera\\EntidadFinanciera.csproj",
         "packagesPath": "C:\\Users\\Soledad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Soledad\\source\\repos\\EntidadFinanciera\\EntidadFinanciera\\obj\\",
+        "outputPath": "C:\\Users\\Soledad\\Documents\\GitHub\\CertificacionProgramacion\\EntidadFinanciera\\EntidadFinanciera\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0uqNeHcVUieOZYgW60LjQfxzlCJoylWYAepllGRB4q/3jH41g7PDyvfNQFLBDR1MZglOWOWvpuivoQ206eq7Ag==",
+  "dgSpecHash": "ImdDco1UiYDV/a4JMxwADBnmytrCscYqB+CjbIX/v9Gyp9abr6D750LDBjO7aODIgagTAOC76RA7XBTKQOVZ7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Soledad\\source\\repos\\EntidadFinanciera\\EntidadFinanciera\\EntidadFinanciera.csproj",
+  "projectFilePath": "C:\\Users\\Soledad\\Documents\\GitHub\\CertificacionProgramacion\\EntidadFinanciera\\EntidadFinanciera\\EntidadFinanciera.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Soledad\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Soledad\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
